@@ -7,6 +7,6 @@ Predict the category of a game from a review. Five categories are used for this 
 
 ## Competition Results
 | Task | Public Leaderboard | Private Leaderboard |
-| --- | --- |
+| --- | --- | --- |
 | Play Prediction | 69/672 (**Top 10%**) | 49/672 (**Top 7%**) |
 | Category Prediction | 78/401 (**Top 19%**) | 146/401 (**Top 37%**) |
